@@ -15,4 +15,20 @@ The project aims to demonstrate the capabilities of the ESP32 in handling real-t
 ## Project Result
 
 ## Materials Used
+### Controller
+* 1 ESP 32 WROOM 38 pins.
+* 2 Thumb Joysticks.
+* 2 EG 1218 switches.
+* 1 3.3V Li-Po Battery.
+* 1 0.1uF Electrolytic Capacitor.
+* 1 10uF Electrolytic Capacitor.
+### Receiver
+* 1 ESP 32 WROOM 38 pins.
+* 3 HC-SR04 Ultrasonic Sensor.
+* 3 330 Ohms Resistors.
+* 3 100 Ohms Resistors.
+* 1 Chasis Car Kit.
+* 1 L298N Motor Driver.
+* 1 9V Battery.
+* 1 3.3V Li-Po Battery.
 ## Works Cited
