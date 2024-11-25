@@ -13,6 +13,11 @@ The RC car operates in two distinct modes: manual and autonomous. In manual mode
 
 The project aims to demonstrate the capabilities of the ESP32 in handling real-time tasks such as motor control, wireless communication, and autonomous decision-making. By incorporating features like obstacle detection, path planning, and environment awareness, the autonomous driving mode highlights practical applications of concepts like IoT, machine learning, and robotics in a compact and affordable design. Whether for educational purposes, prototyping, or just for fun, this RC car project serves as a stepping stone into the exciting world of embedded systems and intelligent automation.
 ## Project Result
+The RC car project utilizing the ESP32 microcontroller successfully met its objectives, delivering a system capable of operating in both manual and autonomous driving modes. Through meticulous design and implementation, the project demonstrated the ESP32's ability to manage complex tasks, including wireless communication, motor control, and real-time decision-making.
+
+In manual mode, the car showcased precise responsiveness to user inputs transmitted via a Bluetooth controller. The seamless communication between the controller and the ESP32 ensured smooth control of the car’s movements, including acceleration, decceleration, turn left, right, and go forward. This mode provided a user-friendly interface for remote operation, proving the robustness and reliability of the system.
+
+In autonomous mode, the car successfully transitioned into self-driving operations. Using sensor inputs from components such as ultrasonic sensors, the car effectively detected and avoided obstacles in its path. Real-time adjustments ensured the car could handle dynamic scenarios, demonstrating the potential of intelligent automation in compact robotics.
 
 ## Materials Used
 ### Controller
