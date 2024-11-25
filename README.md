@@ -37,5 +37,7 @@ In autonomous mode, the car successfully transitioned into self-driving operatio
 * 1 9V Battery.
 * 1 3.3V Li-Po Battery.
 ## Works Cited
-* Get ESP32/ESP8266 MAC Address and Change It https://randomnerdtutorials.com/get-change-esp32-esp8266-mac-address-arduino/.
-* Getting Started with ESP - NOW https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/.
+* Get ESP32/ESP8266 MAC Address and Change It
+  https://randomnerdtutorials.com/get-change-esp32-esp8266-mac-address-arduino/.
+* Getting Started with ESP - NOW
+  https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/.
