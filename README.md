@@ -7,7 +7,12 @@ This project is dedicated to study about how **ESP 32 WROOM microcontroller** wo
 * being able to combine electrical components such as motor driver, motors, ultrasonic sensors, joysticks, switches,
 * designing PCB board for the car's controller,
 ## Introduction
+In the realm of modern robotics and automation, the fusion of microcontroller technology with intelligent control systems has opened up new possibilities for hobbyists and engineers alike. This project explores the development of a versatile remote-controlled (RC) car utilizing the powerful ESP32 microcontroller. The ESP32, known for its robust computational capabilities and built-in Wi-Fi and Bluetooth support, serves as the brain of the car, enabling seamless communication and control.
 
+The RC car operates in two distinct modes: manual and autonomous. In manual mode, the car responds to user commands transmitted via a wireless controller, offering precision and agility for direct operation. When switched to autonomous mode, the car transitions into a self-driving vehicle, leveraging sensor inputs and programmed algorithms to navigate its environment intelligently. This dual-mode functionality showcases the potential of integrating microcontrollers with automation to create a dynamic and interactive robotic system.
+
+The project aims to demonstrate the capabilities of the ESP32 in handling real-time tasks such as motor control, wireless communication, and autonomous decision-making. By incorporating features like obstacle detection, path planning, and environment awareness, the autonomous driving mode highlights practical applications of concepts like IoT, machine learning, and robotics in a compact and affordable design. Whether for educational purposes, prototyping, or just for fun, this RC car project serves as a stepping stone into the exciting world of embedded systems and intelligent automation.
 ## Project Result
+
 ## Materials Used
 ## Works Cited
